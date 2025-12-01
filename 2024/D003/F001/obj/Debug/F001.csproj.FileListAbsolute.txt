@@ -1,0 +1,7 @@
+C:\Egyetem\advent of Code\D003\F001\bin\Debug\F001.exe.config
+C:\Egyetem\advent of Code\D003\F001\bin\Debug\F001.exe
+C:\Egyetem\advent of Code\D003\F001\bin\Debug\F001.pdb
+C:\Egyetem\advent of Code\D003\F001\obj\Debug\F001.csproj.AssemblyReference.cache
+C:\Egyetem\advent of Code\D003\F001\obj\Debug\F001.csproj.CoreCompileInputs.cache
+C:\Egyetem\advent of Code\D003\F001\obj\Debug\F001.exe
+C:\Egyetem\advent of Code\D003\F001\obj\Debug\F001.pdb
